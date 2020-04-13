@@ -1,0 +1,1 @@
+<script src="<?= $localhost ?>/js/app.js"></script>
